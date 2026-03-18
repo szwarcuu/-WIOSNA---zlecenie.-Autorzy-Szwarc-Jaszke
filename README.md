@@ -85,4 +85,4 @@ project-folder
 
 ## Authors
 
-Jan Szwarc, Tymon Jaszke
+Jan Szwarc & Tymon Jaszke
